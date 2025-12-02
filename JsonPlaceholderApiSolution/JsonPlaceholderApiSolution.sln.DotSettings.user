@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17b589bd_002D7474_002D41a2_002D9d9d_002De08272936e46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::054D6EFD-0D78-4E0E-80DE-003E19C7838D::net8.0::ApiTests.Tests.GetTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::054D6EFD-0D78-4E0E-80DE-003E19C7838D::net8.0::ApiTests.Tests.DeleteTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::054D6EFD-0D78-4E0E-80DE-003E19C7838D::net8.0::ApiTests.Tests.PostTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::054D6EFD-0D78-4E0E-80DE-003E19C7838D::net8.0::ApiTests.Tests.PutTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
